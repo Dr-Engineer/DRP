@@ -1,0 +1,1 @@
+gen_csv.py was designed specifically to take in the csv file that is also in this repo. As mentioned in the documentation, changes in key column features would require newer versions of gen_csv.py to go along with it.
